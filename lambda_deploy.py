@@ -1,5 +1,5 @@
 """
-lambda function deploy
+lambda deploy
 """
 
 from __future__ import print_function
